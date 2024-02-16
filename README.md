@@ -1,0 +1,2 @@
+# rasposnavanie_obrazov
+rasposnavanie_obrazov
